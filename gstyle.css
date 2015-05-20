@@ -1,0 +1,41 @@
+#wrap {
+  min-height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  font-size: 13;
+}
+
+#head {
+  background: blue;
+  min-width: 100%;
+  height: 35px;
+}
+
+/*Begining of content*/
+#middle {
+  text-align: center;
+  margin-top: 112px;
+}
+
+img {
+  height: 95px;
+  width: 269;
+  padding-top: 112px;
+}
+
+p#two {
+  width: 300px;
+  padding: 5px;
+  border: 20px solid #0088dd;
+  margin: 10px auto 10px auto;
+}
+
+#foot {
+  background: green;
+  min-width: 100%;
+  height: 35px;
+  bottom: 0;
+  position: absolute;
+
+}
